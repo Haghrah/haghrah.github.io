@@ -4,7 +4,9 @@ My name is Amir Arslan Haghrah, interested in pure and applied mathematics, cont
 
 ### Some texts
 -Book about ethics: [اخلاق (قدوس عبدالرحمنوف)](https://github.com/Haghrah/Akhlagh/blob/master/akhlaq.pdf)
+
 -Trilingual dictionary: [لغات ثلاث (ملا عالمجان بارودی)](https://github.com/Haghrah/lughati_thalath/blob/master/uch_til.pdf)
+
 -History of last Bukharan amir: [تاریخ حزن الملل بخارا (امیر سید عالم خان)](https://github.com/Haghrah/Tarihi-huzn-ul-milali-buhara/blob/master/tarixi_huzn_ul_milal.pdf)
 
 ### Contact me
