@@ -7,7 +7,7 @@ My name is Amir Arslan Haghrah, interested in pure and applied mathematics, cont
 
 * Trilingual dictionary: [لغات ثلاث (ملا عالمجان بارودی)](https://github.com/Haghrah/lughati_thalath/blob/master/uch_til.pdf)
 
-* History of last Bukharan amir: [تاریخ حزن الملل بخارا (امیر سید عالم خان)](https://github.com/Haghrah/Tarihi-huzn-ul-milali-buhara/blob/master/tarixi_huzn_ul_milal.pdf)
+* History written by last Amir of Bukhara Emirate: [تاریخ حزن الملل بخارا (امیر سید عالم خان)](https://github.com/Haghrah/Tarihi-huzn-ul-milali-buhara/blob/master/tarixi_huzn_ul_milal.pdf)
 
 ### Contact me
 You can also see my [Linkedin account](https://www.linkedin.com/in/amir-arslan-haghrah-53b2258a)
