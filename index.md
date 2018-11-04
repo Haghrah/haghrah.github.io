@@ -3,7 +3,7 @@
 My name is Amir Arslan Haghrah, interested in pure and applied mathematics, control engineering, computer programming and etymology. My main activity field is robot path planning, power systems optimization and Turkic etymology.
 
 ### Some texts
-* Alemi Islam va Irklar Masalasi [عالم اسلام و عرقلر مسئله‌سی](https://haghrah.github.io/Alemi_Islam_va_Irklar_Meselesi/index.html)
+* Alemi Islam va Irklar Masalasi [عالم اسلام و عرقلر مسئله‌سی](https://github.com/Haghrah/Alemi_Islam_va_Irklar_Meselesi/blob/master/Mahfil_Alemi_Islam_va_Irqlar_Masalasi.pdf)
 
 * Book about ethics: [اخلاق (قدوس عبدالرحمنوف)](https://github.com/Haghrah/Akhlagh/blob/master/akhlaq.pdf)
 
