@@ -1,4 +1,3 @@
-{% seo %}
 ## Math + Control Engineering + Computer Programming + Etymology
 
 My name is Amir Arslan Haghrah, interested in pure and applied mathematics, control engineering, computer programming and etymology. My main activity field is robot path planning, power systems optimization and Turkic etymology.
