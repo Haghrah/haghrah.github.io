@@ -1,5 +1,3 @@
 theme: jekyll-theme-minimal
 title: Welcome to my page!
 description: Some general information about myself!
-plugins:
-  - jekyll-seo-tag
