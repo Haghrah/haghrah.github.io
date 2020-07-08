@@ -5,3 +5,4 @@ logo: /assets/avatar.jpg
 author: Arslan
 permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
+blog: True
