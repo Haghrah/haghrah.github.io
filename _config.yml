@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Welcome to my page!
 description: Some general information about myself!
-logo: [img.jpg]
+logo: /img.jpg
