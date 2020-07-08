@@ -2,5 +2,6 @@ theme: jekyll-theme-minimal
 title: Welcome!
 description: Amir Arslan Haghrah | امیر ارسلان حق‌ره
 logo: /assets/avatar.jpg
+author: Arslan
 permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
