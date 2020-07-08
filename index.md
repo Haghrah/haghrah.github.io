@@ -1,6 +1,8 @@
 ## About me
 
-My name is Amir Arslan Haghrah. My main activity fields are multi-robot systems, cooperative robotics, linguistic characterization of natural data, fuzzy systems, and soft computing. Also, I am interested in classic Turkic litrature and etymology. I have some posts on my [**blog**](https://haghrah.github.io/blog/).
+My name is Amir Arslan Haghrah. My main activity fields are multi-robot systems, cooperative robotics, linguistic characterization of natural data, fuzzy systems, and soft computing. Also, I am interested in classic Turkic litrature and etymology. 
+
+I have some posts about my activities and interest on my [**blog**](https://haghrah.github.io/blog/).
 
 ## Python toolkits
 
