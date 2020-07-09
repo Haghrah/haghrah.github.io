@@ -13,4 +13,6 @@ Here, I'm going to introduce Python toolkits, which I have developed!
 [PyIT2FLS](https://github.com/Haghrah/PyIT2FLS) is a python toolkit for designing and simulation of Interval Type 2 Fuzzy Logic Systems (IT2 FLS).
 
 ## Contact me
+Contact me using my email address arslan.haghrah [at] gmail
+
 You can also see my [Linkedin account](https://www.linkedin.com/in/amir-arslan-haghrah-53b2258a)
