@@ -6,7 +6,7 @@ I have some posts about my activities and interests in my blog: [Blog link](http
 
 ## Python toolkits
 
-I'm going to introduce Python toolkits which I have developed, here!
+Here, I'm going to introduce Python toolkits, which I have developed!
 
 ### PyIT2FLS
 
