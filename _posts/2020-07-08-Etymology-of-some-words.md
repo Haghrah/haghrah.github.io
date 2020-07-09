@@ -6,4 +6,6 @@ author: Arslan
 tags: Etymology
 ---
 
-First blog post ...
+<div dir="rtl">
+بو یازیدا کؤکو آراشدیریلاجاق لغت «قورشاق» دیر.
+</div>
