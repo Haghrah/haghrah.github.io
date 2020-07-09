@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some notes about Qucs Spice software"
-date: 2020-07-08
+date: 2020-07-09
 author: Arslan
 tags: Electronics, Simulation
 ---
