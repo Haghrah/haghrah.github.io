@@ -1,5 +1,3 @@
-<div dir="rtl">
-
 ---
 layout: post
 title: "Some notes about Turkic morphology"
@@ -8,6 +6,8 @@ author: Arslan
 tags: Linguistics, Morphology
 ---
 
+<div dir="rtl">
+
 # صرف
 
 بعض بیر یازیلار ...
@@ -15,5 +15,6 @@ tags: Linguistics, Morphology
 ## تورکجه‌نیڭ صرفی
 
 بعض بیر یازیلار ...
+
 
 </div>
