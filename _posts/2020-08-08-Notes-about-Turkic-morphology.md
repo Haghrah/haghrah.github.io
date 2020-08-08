@@ -6,15 +6,11 @@ author: Arslan
 tags: Linguistics, Morphology
 ---
 
+
+
+# <div dir="rtl">صرف</div>
+
 <div dir="rtl">
-
-# صرف
-
 بعض بیر یازیلار ...
-
-## تورکجه‌نیڭ صرفی
-
-بعض بیر یازیلار ...
-
-
 </div>
+
