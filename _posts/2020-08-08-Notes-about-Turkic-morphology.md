@@ -6,6 +6,7 @@ author: Arslan
 tags: Linguistics, Morphology
 ---
 <div dir="rtl">
+
 # صرف
 
 ## تورکجه‌نیڭ صرفی
