@@ -8,7 +8,7 @@ tags: Linguistics, Morphology
 <div dir="rtl">
 
 # صرف
-بعض بیر یازیلار ...
+
 </div>
 
 
