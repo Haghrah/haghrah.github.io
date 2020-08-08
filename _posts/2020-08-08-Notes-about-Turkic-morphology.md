@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Some notes about Turkic morphology"
-date: 2020-07-09
+title: "تورکجه‌نیڭ صرفی اوزره قیسا یازیلار"
+date: 2020-08-08
 author: Arslan
 tags: Linguistics, Morphology
 ---
