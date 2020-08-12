@@ -2,9 +2,9 @@
 layout: post
 title: "تورکجه‌نیڭ صرف ایله نحوی اوزره یازیلار"
 date: 2020-08-08
-author: Arslan
+author: ارسلان
 dir: rtl
-tags: Linguistics, Morphology
+tags: دیلچیلیک, صرف, نحو
 ---
 
 # صرف

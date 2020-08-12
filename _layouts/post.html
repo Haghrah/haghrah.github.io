@@ -3,18 +3,30 @@ layout: default
 ---
 
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
+
+{% if page.dir == 'rtl' %}
+<div dir="rtl">
+<h1>{{ page.title }}</h1>
+
+<p class="view">یازار: {{ page.author | default: site.author }}</p>
+
+{{content}}
+
+{% if page.tags %}
+  <small>تگلر: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
+</div>
+
+{% else %}
+
 <h1>{{ page.title }}</h1>
 
 <p class="view">by {{ page.author | default: site.author }}</p>
 
-{% if page.dir == 'rtl' %}
-<div dir="rtl">
 {{content}}
-</div>
-{% else %}
-{{content}}
-{% endif %}
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
+
 {% endif %}
