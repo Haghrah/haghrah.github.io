@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "یالغان دوست (تورکی گلستان)"
-date: 2020-11-10
+date: 2020-11-11
 author: عبدالله اولانی
 dir: rtl
 tags: نثر
