@@ -12,12 +12,12 @@
     <![endif]-->
     <style>
     @font-face {
-		font-family: 'fontamiri';
-		src: local('fontamiri'), 
-	    local('fontamiri'),
-	    url('https://github.com/Haghrah/haghrah.github.io/raw/master/assets/amiri.woff2') format('woff2'), 
-	    url('https://github.com/Haghrah/haghrah.github.io/raw/master/assets/amiri.woff') format('woff'), 
-	    url('https://github.com/Haghrah/haghrah.github.io/raw/master/assets/amiri.ttf') format('truetype');
+		font-family: '{{ site.fontname }}';
+		src: local('{{ site.fontname }}'), 
+	    local('{{ site.fontname }}'),
+	    url('{{ fontttf }}') format('woff2'), 
+	    url('{{ fontwoff }}') format('woff'), 
+	    url('{{ fontwoff2 }}') format('truetype');
 	}
     </style>
   </head>
