@@ -2,11 +2,12 @@ theme: jekyll-theme-minimal
 title: Welcome!
 description: Amir Arslan Haghrah | امیر ارسلان حق ره
 logo: /assets/avatar.jpg
-fontname: amiri
+fontname: Amiri-Regular
 fontsize: 18
-fontttf: /assets/amiri.ttf
-fontwoff: /assets/amiri.woff
-fontwoff2: /assets/amiri.woff2
+fontttf: /assets/Amiri-Regular.ttf
+fonteot: /assets/Amiri-Regular.eot
+fontwoff: /assets/Amiri-Regular.woff
+fontwoff2: /assets/Amiri-Regular.woff2
 author: Arslan
 permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
