@@ -15,9 +15,9 @@
 		font-family: '{{ site.fontname }}';
 		src: local('{{ site.fontname }}'), 
 	    local('{{ site.fontname }}'),
-	    url('{{ fontttf }}') format('woff2'), 
-	    url('{{ fontwoff }}') format('woff'), 
-	    url('{{ fontwoff2 }}') format('truetype');
+	    url('{{ site.fontttf }}') format('woff2'), 
+	    url('{{ site.fontwoff }}') format('woff'), 
+	    url('{{ site.fontwoff2 }}') format('truetype');
 	}
     </style>
   </head>
