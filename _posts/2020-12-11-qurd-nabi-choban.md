@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "قورد نبی چوبان"
-date: 2020-12-10
+date: 2020-12-11
 author: بکیر وهاب‌اوغلو چوبان‌زاده
 dir: rtl
 tags: شعر
