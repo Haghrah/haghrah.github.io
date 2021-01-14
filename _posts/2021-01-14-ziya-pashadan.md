@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ضیا پاشا شعرلریندن"
-date: 2021-01-01
+date: 2021-01-14
 author: ضیا پاشا
 dir: rtl
 tags: شعر
