@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "اخلاق رساله‌سی"
-date: 2020-02-20
+date: 2021-02-20
 author: عبدالقیوم ناصری
 dir: rtl
 tags: نثر
