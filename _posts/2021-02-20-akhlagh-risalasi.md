@@ -7,6 +7,9 @@ dir: rtl
 tags: نثر
 ---
 
+<div align="center">
+<img src="/assets/abd_kayum_nasiri.png" width="250" height="250"/>
+</div>
 
 ## مقدمه
 
