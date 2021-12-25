@@ -13,11 +13,11 @@ Here, I'm going to introduce Python toolkits, which I have developed!
 
 ### Ilımğa (Not completed)
 
-[Ilımğa](https://github.com/Haghrah/ilimga) is a set of linguistic tools concerning the Turkic languages.
+Ilımğa is a set of linguistic tools concerning the Turkic languages.
 
 ### Lachin (Not completed)
 
-[Lachin](https://github.com/Haghrah/Lachin) is a python toolkit for simulation of the UAVs.
+Lachin is a python toolkit for simulation of the UAVs.
 
 ## Contact me
 Contact me using my email address arslan.haghrah [at] gmail.
