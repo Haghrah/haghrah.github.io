@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "موقعیّت اساسلی شعرلر"
-date: 2021-09-21
+date: 2022-02-22
 author: ارسلان
 dir: rtl
 tags: شعر
