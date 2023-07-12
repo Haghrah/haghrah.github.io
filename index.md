@@ -11,9 +11,9 @@ Here, I'm going to introduce Python toolkits, which I have developed!
 
 [PyIT2FLS](https://github.com/Haghrah/PyIT2FLS) is a python toolkit for designing and simulation of Interval Type 2 Fuzzy Logic Systems (IT2 FLS).
 
-### Ilımğa (Not completed)
+### Ilimgha (Not completed)
 
-Ilımğa is a set of linguistic tools concerning the Turkic languages.
+Ilimgha is a set of linguistic tools concerning the Turkic languages.
 
 ### Lachin (Not completed)
 
