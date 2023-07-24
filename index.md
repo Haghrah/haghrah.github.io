@@ -5,7 +5,7 @@ My name is Amir Arslan Haghrah. My main activity fields are multi-robot systems,
 
 ## Python toolkits
 
-Here, I'm going to introduce Python toolkits, which I have developed!
+Here, I'm going to introduce Python toolkits I have developed!
 
 ### PyIT2FLS
 
